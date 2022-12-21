@@ -23,3 +23,4 @@ with open(image_filepath, 'wb') as file:
 sl.title(title)
 sl.image(image_filepath)
 sl.write(explanation)
+
